@@ -1,0 +1,172 @@
+{
+	"frames": {
+		"enemy1-1.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 52,
+				"h": 59
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 59
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 59
+			}
+		},
+		"enemy1-2.png": {
+			"frame": {
+				"x": 55,
+				"y": 1,
+				"w": 50,
+				"h": 59
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 50,
+				"h": 59
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 59
+			}
+		},
+		"enemy1-3.png": {
+			"frame": {
+				"x": 107,
+				"y": 1,
+				"w": 50,
+				"h": 61
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 50,
+				"h": 61
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 61
+			}
+		},
+		"enemy1-4.png": {
+			"frame": {
+				"x": 1,
+				"y": 64,
+				"w": 50,
+				"h": 59
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 50,
+				"h": 59
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 59
+			}
+		},
+		"enemy1-5.png": {
+			"frame": {
+				"x": 53,
+				"y": 64,
+				"w": 51,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 51,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 51,
+				"h": 60
+			}
+		},
+		"enemy1-6.png": {
+			"frame": {
+				"x": 106,
+				"y": 64,
+				"w": 51,
+				"h": 58
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 51,
+				"h": 58
+			},
+			"sourceSize": {
+				"w": 51,
+				"h": 58
+			}
+		},
+		"enemy1-7.png": {
+			"frame": {
+				"x": 159,
+				"y": 1,
+				"w": 50,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 50,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 57
+			}
+		},
+		"enemy1-8.png": {
+			"frame": {
+				"x": 159,
+				"y": 60,
+				"w": 52,
+				"h": 58
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 58
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 58
+			}
+		}
+	},
+	"meta": {
+		"image": "enemy1Sheet.png",
+		"size": {
+			"w": 212,
+			"h": 125
+		},
+		"scale": "1"
+	}
+}

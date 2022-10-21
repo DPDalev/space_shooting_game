@@ -1,0 +1,92 @@
+{
+	"frames": {
+		"rocket1.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 23,
+				"h": 42
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 23,
+				"h": 42
+			},
+			"sourceSize": {
+				"w": 23,
+				"h": 42
+			}
+		},
+		"rocket2.png": {
+			"frame": {
+				"x": 26,
+				"y": 1,
+				"w": 23,
+				"h": 47
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 23,
+				"h": 47
+			},
+			"sourceSize": {
+				"w": 23,
+				"h": 47
+			}
+		},
+		"rocket3.png": {
+			"frame": {
+				"x": 51,
+				"y": 1,
+				"w": 23,
+				"h": 47
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 23,
+				"h": 47
+			},
+			"sourceSize": {
+				"w": 23,
+				"h": 47
+			}
+		},
+		"rocket4.png": {
+			"frame": {
+				"x": 1,
+				"y": 50,
+				"w": 23,
+				"h": 47
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 23,
+				"h": 47
+			},
+			"sourceSize": {
+				"w": 23,
+				"h": 47
+			}
+		}
+	},
+	"meta": {
+		"image": "rocketSheet.png",
+		"size": {
+			"w": 75,
+			"h": 98
+		},
+		"scale": "1"
+	}
+}

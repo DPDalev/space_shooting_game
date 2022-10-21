@@ -1,0 +1,26 @@
+{
+  "name": "dopamine_game",
+  "version": "1.0.0",
+  "description": "Shooter game",
+  "main": "y",
+  "scripts": {
+    "test": "npm run test",
+    "dev": "webpack-dev-server --mode development --open",
+    "start": "webpack && node server.js"
+  },
+  "keywords": [
+    "dopamine",
+    "game",
+    "shoot"
+  ],
+  "author": "dpdalev",
+  "license": "MIT",
+  "dependencies": {
+    "css-loader": "^6.7.1",
+    "script-loader": "^0.7.2",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.7.4"
+  }
+}

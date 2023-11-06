@@ -1,4 +1,4 @@
-# space-shooting-game-VanillaJS_PixiJS
+# space_shooting_game
 Space shooting game: VanillaJS, PixiJS, Webpack.
 
 Mouse controls: left button- player shoots, right button - player moves.
